@@ -11,3 +11,5 @@
 ## Connect with me
 
 [![Links](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/archit-kayal/)
+
+![](https://github.com/ArchitKayal/github-stats-transparent/blob/4c36b9fa4736a0dd92870766e21f0b082cffed54/generated/languages.svg)
