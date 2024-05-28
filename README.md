@@ -10,4 +10,4 @@
 
 ## Connect with me
 
-[![Links](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![Links](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/archit-kayal/)
