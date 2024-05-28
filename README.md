@@ -7,3 +7,7 @@
 ## Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,nodejs,redux,firebase,mongodb,tailwind,vscode,git)](https://skillicons.dev)
+
+## Connect with me
+
+[![Links](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
