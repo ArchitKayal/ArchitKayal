@@ -19,4 +19,4 @@
 
 
 ![](https://github.com/ArchitKayal/github-stats-transparent/blob/4cfbe584758fe63f6d3fc0794f0eef2eeff01a67/generated/languages.svg)
-![](https://github.com/ArchitKayal/github-stats-transparent/blob/4c36b9fa4736a0dd92870766e21f0b082cffed54/generated/overview.svg)
+![](https://github.com/ArchitKayal/github-stats-transparent/blob/4cfbe584758fe63f6d3fc0794f0eef2eeff01a67/generated/overview.svg)
