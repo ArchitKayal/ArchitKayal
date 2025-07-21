@@ -18,3 +18,4 @@
 </p>
 
 ![](https://raw.githubusercontent.com/ArchitKayal/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/ArchitKayal/github-stats-transparent/output/generated/overview.svg)
