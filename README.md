@@ -17,4 +17,4 @@
 <a href="https://codeforces.com/profile/KronoKop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="humblefoo1" height="30" width="40" /></a>
 </p>
 
-![](https://raw.githubusercontent.com/ArchitKayal/github-stats-transparent/generated/languages.svg)
+![](https://raw.githubusercontent.com/ArchitKayal/github-stats-transparent/output/generated/languages.svg)
