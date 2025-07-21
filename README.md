@@ -18,5 +18,3 @@
 </p>
 
 
-![](https://github.com/ArchitKayal/github-stats-transparent/blob/4cfbe584758fe63f6d3fc0794f0eef2eeff01a67/generated/languages.svg)
-![](https://github.com/ArchitKayal/github-stats-transparent/blob/4cfbe584758fe63f6d3fc0794f0eef2eeff01a67/generated/overview.svg)
